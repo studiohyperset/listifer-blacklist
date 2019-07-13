@@ -4,7 +4,7 @@ We populated the first version of this list with some of the words marked `possi
 
 ## "Why blacklist any keywords at all?"
 
-The relevant portion of Listifer's [terms of use](https://listifer.com/terms) can be summed up as follows:
+The relevant portion of Listifer's [terms of use](https://listifer.com/terms) can be summed up as follows.
 
 We do not allow Listifer to be used in any way that:
 
