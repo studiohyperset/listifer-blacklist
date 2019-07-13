@@ -2,7 +2,7 @@
 
 We populated the first version of this list with words marked `possibly_offensive=true` and/or `flags=offensive` in the `en_wordlist.combined.gz` portion of the [Android (KitKat) dictionary](https://android.googlesource.com/platform/packages/inputmethods/LatinIME/+/master/dictionaries/).
 
-## "Why blacklist any keywords at all?"
+## "Why blacklist anything?"
 
 The relevant portion of Listifer's [terms of use](https://listifer.com/terms) can be summed up as follows.
 
