@@ -1,10 +1,3 @@
 # Listifer Keyword Blacklist
 
-We populated the first version of this list with words the [Android (KitKat) dictionary](https://android.googlesource.com/platform/packages/inputmethods/LatinIME/+/master/dictionaries/) marked as `possibly_offensive=true`. 
-
-
-
-
-
-
-Listifer Keyword Blacklist (listifer.com)
+We populated the first version of this list with most of the words marked `possibly_offensive=true` and/or `flags=offensive` in the [en_wordlist.combined.gz Android (KitKat) dictionary](https://android.googlesource.com/platform/packages/inputmethods/LatinIME/+/master/dictionaries/).
