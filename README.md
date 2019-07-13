@@ -15,4 +15,10 @@ We do not allow Listifer to be used in any way that:
 
 Blacklisting certain keywords helps us enforce this policy.
 
-## "I disagree with some of your choices." or "I think your list is missing something."
+## "I think your list is missing something."
+
+Think our blacklist isn't stringent enough? Let us know what's missing [here](https://github.com/studiohyperset/listifer-blacklist/issues/2).
+
+## "I disagree with some of your choices." 
+
+Think we've overstepped? Let us know why you think something should be removed from our blacklist [here](https://github.com/studiohyperset/listifer-blacklist/issues/1)
