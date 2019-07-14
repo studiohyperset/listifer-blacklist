@@ -1,6 +1,6 @@
 # Listifer Keyword Blacklist
 
-We populated the first version of this list with words marked `possibly_offensive=true` and/or `flags=offensive` in the `en_wordlist.combined.gz` portion of the [Android (KitKat) dictionary](https://android.googlesource.com/platform/packages/inputmethods/LatinIME/+/master/dictionaries/).
+We populated the first version of this list with words marked `possibly_offensive=true` and/or `flags=offensive` in the `en_wordlist.combined.gz` portion of the [Android (KitKat) dictionary](https://android.googlesource.com/platform/packages/inputmethods/LatinIME/+/master/dictionaries/). We also added a few other terms that don't appear in that list. Mostly, these terms are associated with illegal drugs.
 
 ## "Why blacklist anything?"
 
