@@ -9,6 +9,9 @@ Air Blast
 AK
 Ala
 alb
+Alprazolam
+Ambien
+Anabolic Steroids
 anal
 anality
 anally
@@ -134,6 +137,7 @@ bullshitter
 bullshitters
 bullshitting
 bunghole
+Buprenorphine
 bustier
 bustiest
 busty
@@ -200,6 +204,7 @@ clitoris
 clitoris's
 clitorises
 cloaca
+Clonzaepam
 Cloud 9
 clyster
 Cocaine
@@ -211,6 +216,8 @@ cocks
 cocksucker
 cocksuckers
 codeine
+Codeine
+Codine
 codpiece
 codpieces
 coital
@@ -299,10 +306,12 @@ demimondaine
 demimondaines
 demimonde
 demimondes
+Depressants
 dev
 devirginized
 Dexies
 diazepam
+Diazepam
 dick
 dick's
 dicking
@@ -510,6 +519,7 @@ gynaecology
 H
 haemorrhoid
 hah
+Hallucinogenic
 Happy Pill
 hardcore
 harem
@@ -563,6 +573,7 @@ Hug
 Hug Drug
 humping
 hustler
+Hydrocodone
 Hydros
 hymen
 Hymen
@@ -638,6 +649,7 @@ kinkiness
 kinky
 Kit Kat
 klansmen
+Klonpin
 KR
 Kronic
 kW
@@ -735,6 +747,8 @@ Meow Meow
 mes
 Mescaline
 Meth
+Methadone
+Methamphetamine
 Methaqualone
 Mexican Brown
 micropenis
@@ -751,6 +765,7 @@ monosexual
 Moon Gas
 Moon Rocks
 morphine
+Morphine
 motherfucker
 motherfucker's
 motherfuckers
@@ -820,6 +835,11 @@ oestrous
 oestrus
 oho
 oligospermia
+Opiates
+Opioids
+Opium
+Opium 
+Opium Derivaties
 Orange Crush
 orgasm
 Orgasm's
@@ -840,6 +860,7 @@ ow
 Ox
 Oxy
 Oxy 80s
+Oxycodone
 OxyContin
 Oxycotton
 Oz
@@ -884,6 +905,7 @@ penis's
 penises
 penthouse
 Pep Pills
+Percocet
 perineoscrotal
 perirectal
 perisperm
@@ -1250,6 +1272,9 @@ Sri
 Stardust
 STD
 std
+Steroids
+Stillnox
+Stimulants
 stripper
 stripper's
 strippers
@@ -1262,6 +1287,7 @@ stripteases
 stud
 studs
 Study Buddies
+Suboxone
 suck
 sucking
 sucks
@@ -1465,6 +1491,7 @@ vaginitis
 vaginoplasties
 vaginoplasty
 vagitus
+Valpax
 Vanilla Sky
 vasectomies
 vasectomized
@@ -1572,5 +1599,7 @@ Z-Bars
 Zanbars or Xanbars
 Zing
 Zohai
+Zolpidem
+Zolpimist
 zoophile
 zoophilia
