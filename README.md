@@ -21,4 +21,4 @@ Think our blacklist isn't stringent enough? Let us know what's missing [here](ht
 
 ## "I disagree with some of your choices." 
 
-Think we've overstepped? Let us know why you think something should be removed from our blacklist [here](https://github.com/studiohyperset/listifer-blacklist/issues/1)
+Think we've overstepped? Let us know why you think something should be removed from our blacklist [here](https://github.com/studiohyperset/listifer-blacklist/issues/1).
